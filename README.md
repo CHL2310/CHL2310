@@ -3,7 +3,7 @@
 Hi!,  I'm <a href="https://github.com/CHL2310" target="_blank" rel="noreferrer">CHL2310</a> 👋
 </h3>
 
-- Full Stack developer, my favorites technologies are Angular and NodeJs, I have some knowledge about .net Framwork,  DevOps and Docker y Kubernetes.
+- Full Stack developer, my favorites technologies are Angular and NodeJs, I have some knowledge about .net Framework,  DevOps and Docker y Kubernetes.
 
 - Contributing  in [BizBat](https://www.bizbatmusic.com/) and  [Eseety App (Beta)](http://eseety.com/)
 

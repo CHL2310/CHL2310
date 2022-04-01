@@ -3,7 +3,7 @@
 Hi!,  I'm <a href="https://github.com/CHL2310" target="_blank" rel="noreferrer">CHL2310</a> 👋
 </h3>
 
-- Full Stack developer, my favorites technologies are Angular and NodeJs, I have some knowledge about .net Framwork,  DevOps and Docker y Kubernetes.
+- Full Stack developer, my favorites technologies are Angular and NodeJs, I have some knowledge about .net Framework,  DevOps and Docker y Kubernetes.
 
 - Contributing  in [BizBat](https://www.bizbatmusic.com/) and  [Eseety App (Beta)](http://eseety.com/)
 
@@ -15,4 +15,4 @@ Hi!,  I'm <a href="https://github.com/CHL2310" target="_blank" rel="noreferrer">
 
 ### 👀 Connect with me
 
-<a href="https://www.linkedin.com/in/claudio-hernandez-563b05162/"  target="_blank"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1646331658~hmac=2074ca6cbba69fd173a9fb4f9cf76282" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/claudio-hernandez-563b05162/"  target="_blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="icon | LinkedIn" width="21px"/></a>
